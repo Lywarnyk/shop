@@ -1,0 +1,878 @@
+2018-06-07 19:21:15,442 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:23:39,091 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:26:50,484 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:27:00,376 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:01,415 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:27:01,421 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:27:01,484 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:01,484 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:01,483 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:11,460 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:45,591 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:45,594 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:27:45,595 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:27:46,422 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:46,422 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:27:46,425 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:27:46,425 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:27:46,425 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:27:46,425 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:27:46,425 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:27:47,191 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:27:47,207 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:27:47,621 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:27:47,622 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:27:47,665 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:27:47,694 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,700 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,726 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,739 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,758 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,759 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,761 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,769 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,772 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:27:47,774 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:31:30,278 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:31:30,278 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 19:31:30,612 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528389090612
+2018-06-07 19:31:30,784 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:31:30,785 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:31:30,787 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 19:31:30,788 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 19:31:30,789 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 19:31:30,805 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:31:30,805 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 19:31:30,996 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 19:32:19,085 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:32:19,246 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:32:19,252 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:34:38,203 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:34:43,126 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:43,128 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:44,246 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:34:44,253 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:34:45,620 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:45,621 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:45,674 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:34:45,675 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:34:49,888 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,888 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,893 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:34:49,895 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:34:49,923 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,924 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,939 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,939 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,943 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,944 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,945 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,945 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,951 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,951 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,954 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,954 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,951 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,956 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,959 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,959 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:49,954 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:49,960 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,008 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,008 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,023 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,023 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,027 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,028 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,031 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,031 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,035 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,035 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,042 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,042 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,042 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,042 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,044 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,044 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,048 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,049 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,050 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,050 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,059 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,059 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:34:50,099 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:34:50,099 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:36:46,658 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:36:49,403 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:36:49,405 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:36:50,463 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:36:50,469 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:36:52,133 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:36:52,134 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:36:53,075 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:36:53,077 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:36:53,077 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:36:53,077 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:36:53,077 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:36:53,078 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:36:53,630 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:36:53,634 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:36:53,934 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:36:53,935 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:36:54,001 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:37:31,002 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:37:31,003 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:37:44,705 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:37:44,706 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:37:44,707 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:43:00,890 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:43:12,706 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:43:13,840 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:43:13,847 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:43:47,409 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:43:47,416 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:43:47,417 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:43:49,305 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:43:49,307 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:43:51,641 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:43:51,644 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:43:51,644 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:43:51,644 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:43:51,644 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:43:51,644 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:43:52,181 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:43:52,184 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:43:52,499 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:43:52,515 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:43:52,555 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:44:01,745 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:44:01,745 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:44:01,745 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:44:01,745 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:44:01,745 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:44:01,745 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:44:01,757 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:44:01,762 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:44:01,772 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:44:01,774 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:44:01,782 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:45:07,370 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:45:07,371 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:45:07,371 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:45:07,371 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:45:07,371 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:45:07,371 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:45:07,385 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:45:07,391 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:45:07,567 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:45:07,646 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:45:07,670 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:45:29,924 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 19:45:30,258 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 19:45:30,260 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 19:45:30,264 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:45:30,265 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:45:30,266 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:45:30,266 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:45:30,266 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:45:30,266 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:45:30,814 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:45:30,818 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:45:32,020 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:45:32,088 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:45:32,148 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:45:42,812 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:45:42,812 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:45:42,813 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:45:42,813 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:45:42,813 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:45:42,813 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:45:42,813 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:45:42,821 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:45:42,824 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:45:42,834 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:45:42,835 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:45:42,841 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:45:48,863 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:45:48,917 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:45:50,107 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:45:50,108 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:46:06,041 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 19:46:06,044 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:46:06,046 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:47:16,581 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 19:47:16,754 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:47:16,755 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:49:33,876 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:49:33,877 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:49:34,768 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:49:34,768 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:49:34,769 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:49:34,769 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:49:34,769 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:49:34,769 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:49:34,776 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:49:34,782 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:49:34,786 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:49:34,787 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:49:34,792 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:49:49,200 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:49:49,200 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:49:49,200 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:49:49,200 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:49:49,200 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:49:49,200 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:49:49,200 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:49:49,207 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:49:49,209 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:49:49,213 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:49:49,214 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:49:49,219 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:49:50,777 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:49:50,778 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:50:05,091 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:50:05,093 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:50:24,590 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 19:50:24,593 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:50:24,593 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:52:47,026 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:52:47,027 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:52:47,786 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:52:47,787 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:52:48,543 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:52:48,544 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:52:49,158 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:52:49,158 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:52:49,158 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:52:49,158 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:52:49,158 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:52:49,158 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:52:49,166 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:52:49,169 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:52:49,412 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:52:49,413 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:52:49,455 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:53:03,325 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 19:53:03,325 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:53:03,325 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:53:03,325 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:53:03,325 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:53:03,325 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:53:03,325 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:53:03,332 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:53:03,334 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:53:03,339 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:53:03,340 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:53:03,343 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:53:07,742 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 19:53:07,742 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:53:07,742 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:53:07,742 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:53:07,742 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:53:07,742 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:53:07,742 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:53:07,748 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:53:07,751 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:53:07,754 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:53:07,755 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:53:07,757 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 19:53:09,137 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:53:09,138 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:53:15,332 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Default locale was set
+2018-06-07 19:53:15,332 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 19:53:15,332 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 19:53:15,333 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:53:15,333 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 19:53:15,333 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 19:53:15,333 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 19:53:15,338 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 19:53:15,341 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 19:53:15,345 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 19:53:15,346 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 19:53:15,349 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:10:45,541 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:11:45,410 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Default locale was set
+2018-06-07 20:11:45,420 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:11:45,421 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:11:45,421 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:11:45,421 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:11:45,421 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:11:45,421 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:11:45,940 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:11:45,944 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:11:47,313 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:11:47,395 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:11:47,489 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:11:59,370 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:11:59,370 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:11:59,370 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:11:59,370 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:11:59,370 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:11:59,370 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:11:59,370 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:11:59,378 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:11:59,381 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:11:59,387 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:11:59,388 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:11:59,395 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:12:06,360 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:12:06,360 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:12:06,360 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:12:06,360 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:12:06,360 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:12:06,360 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:12:06,360 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:12:06,366 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:12:06,371 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:12:06,375 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:12:06,376 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:12:06,381 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:12:15,560 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:12:15,560 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:12:15,560 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:12:15,560 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:12:15,560 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:12:15,560 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:12:15,560 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:12:15,570 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:12:15,574 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:12:15,581 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:12:15,583 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:12:15,588 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:17:36,428 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:17:43,274 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:17:43,282 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:17:43,283 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:17:43,283 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:17:43,283 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:17:43,283 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:17:43,283 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:17:43,806 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:17:43,809 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:17:45,067 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:17:45,079 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:17:45,278 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:17:52,421 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:17:52,421 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:17:52,421 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:17:52,422 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:17:52,422 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:17:52,422 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:17:52,422 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:17:52,431 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:17:52,434 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:17:52,440 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:17:52,441 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:17:52,447 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:17:57,240 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:17:57,240 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:17:57,240 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:17:57,240 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:17:57,240 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:17:57,240 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:17:57,240 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:17:57,247 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:17:57,253 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:17:57,258 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:17:57,259 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:17:57,264 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:19:07,960 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:19:07,960 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:19:07,960 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:19:07,960 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:19:07,960 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:19:07,960 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:19:07,960 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:19:07,969 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:19:07,973 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:19:08,199 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:19:08,295 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:19:08,346 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:19:11,061 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:19:11,062 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:19:21,539 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:19:21,540 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:19:23,096 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:19:23,097 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:19:24,253 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:19:24,347 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528391964347
+2018-06-07 20:19:24,499 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:19:24,500 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:19:24,501 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:19:24,502 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:19:24,503 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:19:24,520 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:19:24,552 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:20:15,529 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:20:15,532 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392015532
+2018-06-07 20:20:15,537 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:20:15,538 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:20:15,539 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:20:15,540 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:20:15,541 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:20:15,659 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:20:15,670 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:20:28,535 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:20:28,958 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 20:20:28,960 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 20:20:28,967 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:20:29,080 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392029079
+2018-06-07 20:20:30,236 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:20:30,285 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:20:30,300 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:20:30,342 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:20:30,371 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:20:30,517 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:20:30,550 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:20:39,617 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:20:39,618 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:20:39,620 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392039620
+2018-06-07 20:20:39,624 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:20:39,625 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:20:39,626 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:20:39,626 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:20:39,627 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:20:39,649 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:20:39,673 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:21:08,250 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:21:08,251 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:21:08,257 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392068257
+2018-06-07 20:21:08,507 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:21:08,508 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:21:08,509 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:21:08,510 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:21:08,512 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:21:08,615 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:21:08,630 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:21:14,814 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:21:14,814 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:21:14,815 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392074815
+2018-06-07 20:21:14,819 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:21:14,820 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:21:14,821 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:21:14,821 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:21:14,822 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:21:14,842 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:21:14,858 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:21:44,648 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:21:44,648 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:21:44,650 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392104650
+2018-06-07 20:21:44,814 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:21:44,815 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:21:44,816 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:21:44,816 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:21:44,817 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:21:44,924 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:21:44,932 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:21:52,580 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:21:52,580 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:21:52,582 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392112582
+2018-06-07 20:21:52,585 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:21:52,586 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:21:52,586 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:21:52,586 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:21:52,587 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:21:52,604 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:21:52,609 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:22:05,196 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:22:21,277 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:22:21,286 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:22:21,355 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392141355
+2018-06-07 20:22:22,442 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:22:22,449 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:22:22,459 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:22:22,518 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:22:22,523 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:22:22,530 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:22:22,558 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:22:26,701 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:22:26,702 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:22:26,704 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392146704
+2018-06-07 20:22:26,709 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:22:26,710 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:22:26,710 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:22:26,713 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:22:26,714 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:22:26,732 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:22:26,741 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:25:58,680 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:25:58,681 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:25:59,625 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:25:59,628 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:25:59,628 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:25:59,628 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:25:59,628 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:25:59,628 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:00,152 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:00,155 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:00,384 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:00,427 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:00,470 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:01,046 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:26:01,050 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392361050
+2018-06-07 20:26:01,051 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:01,052 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:01,052 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:26:01,052 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:26:01,053 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:26:01,068 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:26:01,077 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:26:07,808 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:26:07,808 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:26:07,809 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392367809
+2018-06-07 20:26:07,812 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:07,813 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:07,813 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:26:07,814 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:26:07,815 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:26:07,833 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:26:07,851 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:26:09,312 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:09,313 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:10,311 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:26:10,312 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:26:10,312 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:10,312 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:26:10,312 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:10,312 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:10,318 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:10,320 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:10,325 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:10,326 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:10,331 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:14,710 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:26:14,710 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:26:14,710 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:26:14,710 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:14,710 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:26:14,710 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:14,710 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:14,716 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:14,719 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:14,724 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:14,725 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:14,729 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:16,823 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:16,824 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:17,887 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:26:17,887 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:26:17,887 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:17,887 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:26:17,887 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:17,887 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:17,894 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:17,896 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:17,899 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:17,900 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:17,904 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:18,951 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:18,952 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:19,919 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:26:19,920 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392379920
+2018-06-07 20:26:19,922 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:19,923 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:19,923 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:26:19,923 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:26:19,924 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:26:19,939 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:26:19,972 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:26:20,599 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:26:20,599 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:26:20,599 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:20,599 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:26:20,599 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:20,599 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:20,606 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:20,609 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:20,612 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:20,613 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:20,615 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:22,111 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:26:22,111 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:26:22,111 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:22,111 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:26:22,111 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:22,111 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:22,117 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:22,119 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:22,122 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:22,123 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:22,125 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:22,961 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:22,962 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:28,903 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:26:28,903 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:26:28,903 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:28,903 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:26:28,903 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:26:28,903 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:26:28,909 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:26:28,912 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:26:28,915 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:28,916 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:26:28,918 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:26:29,944 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:26:29,946 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:38,614 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:38,615 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:41,764 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:41,765 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:42,838 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:42,839 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:43,606 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:31:43,606 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:31:43,606 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:31:43,606 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:31:43,607 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:31:43,607 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:31:43,613 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:31:43,616 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:31:43,620 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:43,621 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:43,625 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:31:44,654 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:31:44,656 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392704656
+2018-06-07 20:31:44,658 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:44,659 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:44,659 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:31:44,660 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:31:44,660 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:31:44,677 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:31:44,685 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:31:49,219 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:31:49,219 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:31:49,221 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392709221
+2018-06-07 20:31:49,229 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:49,230 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:49,231 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:31:49,231 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:31:49,232 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:31:49,391 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:31:49,397 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:31:51,007 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:51,008 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:53,662 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:31:53,662 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:31:53,662 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:31:53,662 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:31:53,662 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:31:53,662 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:31:53,667 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:31:53,671 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:31:53,675 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:53,676 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:53,678 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:31:54,790 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:31:54,791 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392714791
+2018-06-07 20:31:54,792 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:54,793 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:54,793 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:31:54,794 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:31:54,795 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:31:54,810 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:31:54,818 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:31:59,176 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:31:59,176 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:31:59,178 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528392719178
+2018-06-07 20:31:59,182 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:31:59,183 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:31:59,183 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:31:59,184 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:31:59,184 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:31:59,349 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:31:59,354 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:32:05,129 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:32:05,130 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:39,542 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:33:39,877 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 20:33:39,878 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 20:33:41,148 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:41,154 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:42,819 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:42,820 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:50,493 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:33:50,497 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:50,498 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:52,253 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:52,254 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:53,436 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:53,437 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:54,068 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:33:54,071 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:33:54,071 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:33:54,071 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:33:54,071 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:33:54,071 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:33:54,621 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:33:54,624 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:33:54,856 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:54,857 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:54,909 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:33:56,507 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:33:56,507 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:33:56,508 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:33:56,508 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:33:56,508 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:33:56,508 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:33:56,514 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:33:56,517 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:33:56,521 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:33:56,522 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:33:56,528 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:35:53,224 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:36:01,211 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 20:36:01,212 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 20:36:02,471 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:36:02,483 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:36:03,379 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:36:03,381 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:36:03,381 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:36:03,381 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:36:03,381 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:36:03,382 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:36:03,929 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:36:03,934 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:36:04,155 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:36:04,159 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:36:04,202 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:36:10,904 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:36:10,905 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:36:10,905 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:36:10,905 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:36:10,905 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:36:10,905 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:36:10,905 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:36:10,913 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:36:10,917 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:36:10,924 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:36:10,925 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:36:10,930 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:36:12,219 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:36:12,220 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:36:12,923 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:36:12,923 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:36:12,923 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:36:12,924 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:36:12,924 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:36:12,924 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:36:12,930 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:36:12,935 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:36:12,939 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:36:12,940 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:36:12,944 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:44:29,086 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:44:29,087 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:44:29,087 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:44:29,087 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:44:29,087 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:44:29,087 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:44:29,098 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:44:29,103 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:44:29,113 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:29,115 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:29,121 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:44:30,398 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:30,399 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:31,348 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:31,386 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:39,028 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:44:39,031 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:39,032 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:40,423 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:40,424 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:41,093 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:41,094 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:41,805 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:44:41,805 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:44:41,805 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:44:41,805 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:44:41,805 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:44:41,806 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:44:41,812 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:44:41,815 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:44:41,819 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:41,819 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:41,822 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:44:42,494 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:44:42,568 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528393482567
+2018-06-07 20:44:42,745 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:42,746 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:42,750 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:44:42,751 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:44:42,752 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:44:42,773 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:44:42,805 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:44:44,055 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:44,056 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:53,929 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:53,931 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:55,661 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:55,663 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:44:56,373 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:44:56,374 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:45:15,158 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:45:17,771 [DEBUG][.kuliha.shop.filter.LocaleFilter] - storage loc == null
+2018-06-07 20:45:17,773 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by locale from browser: ru
+2018-06-07 20:45:18,863 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:45:18,875 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:45:41,416 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:45:41,420 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:45:41,421 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:46:00,993 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:46:00,994 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:46:00,995 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:46:30,218 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:46:52,913 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:46:54,151 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:46:54,161 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:47:00,355 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:47:00,360 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:47:00,361 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:47:56,569 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-07 20:48:13,885 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: en
+2018-06-07 20:48:15,080 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:15,085 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:19,300 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:19,301 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:23,440 [DEBUG][.kuliha.shop.filter.LocaleFilter] - Locale was set by parameter: ru
+2018-06-07 20:48:23,444 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:23,445 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:24,789 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:24,790 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:25,885 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:25,886 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:26,653 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:26,654 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:27,708 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:48:27,711 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:48:27,711 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:48:27,711 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:48:27,711 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:48:27,711 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:48:28,255 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:48:28,258 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:48:28,473 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:28,475 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:28,522 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:48:30,036 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-07 20:48:30,036 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-07 20:48:30,036 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:48:30,036 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-07 20:48:30,036 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-07 20:48:30,036 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-07 20:48:30,043 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-07 20:48:30,046 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-07 20:48:30,049 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:30,050 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:30,055 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-07 20:48:30,646 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-07 20:48:30,723 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1528393710723
+2018-06-07 20:48:30,874 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:48:30,879 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-07 20:48:30,887 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-06-07 20:48:30,887 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-06-07 20:48:30,888 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-07 20:48:30,906 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-06-07 20:48:30,939 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-06-07 20:49:06,151 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-07 20:49:06,152 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished

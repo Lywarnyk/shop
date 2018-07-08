@@ -1,0 +1,286 @@
+2018-05-14 09:54:09,295 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 09:54:09,306 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 09:54:09,306 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 09:54:43,846 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 09:54:44,184 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526280884184
+2018-05-14 09:54:44,472 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 09:54:44,497 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 09:54:44,498 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526280884184
+2018-05-14 09:54:44,610 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 09:54:50,925 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 09:54:50,931 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526280890931
+2018-05-14 09:54:50,937 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 09:54:51,044 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 09:54:51,044 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526280890931
+2018-05-14 09:54:51,052 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 09:54:54,197 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 09:54:54,199 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526280894199
+2018-05-14 09:54:54,201 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 09:54:54,299 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 09:54:54,299 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526280894199
+2018-05-14 09:54:54,305 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 09:54:56,829 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 09:54:56,831 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526280896831
+2018-05-14 09:54:56,836 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 09:54:56,919 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 09:54:56,919 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526280896831
+2018-05-14 09:54:56,925 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 09:55:52,405 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 09:55:52,486 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-14 09:55:52,488 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 09:55:52,490 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526280952490
+2018-05-14 09:55:52,496 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 09:55:52,522 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 09:55:52,523 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526280952490
+2018-05-14 09:55:52,534 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 09:56:26,045 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 09:56:26,046 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Asdf,lastName=Asdf,email=asdf@rich.com,password=asdf,mailing=true]
+2018-05-14 09:56:26,046 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-14 10:12:22,011 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 10:12:22,015 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526281942015
+2018-05-14 10:12:22,018 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 10:12:22,041 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 10:12:22,042 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526281942015
+2018-05-14 10:12:22,050 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 10:12:38,953 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 10:12:38,954 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-14 10:12:38,957 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 10:12:38,959 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526281958959
+2018-05-14 10:12:38,962 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 10:12:38,983 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 10:12:38,983 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526281958959
+2018-05-14 10:12:38,991 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 16:46:28,762 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 16:46:28,763 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 16:46:28,763 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 16:47:04,063 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:50:44,328 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 16:50:44,329 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 16:50:44,329 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 16:50:48,703 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:50:57,755 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:53:26,052 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 16:53:26,053 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 16:53:26,053 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 16:53:30,090 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:53:30,248 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306010248
+2018-05-14 16:53:31,128 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 16:53:31,310 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 16:53:31,311 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306010248
+2018-05-14 16:53:54,923 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:53:54,930 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306034930
+2018-05-14 16:53:54,935 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 16:53:54,956 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 16:53:54,956 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306034930
+2018-05-14 16:59:05,033 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 16:59:05,034 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 16:59:05,034 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 16:59:32,741 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:59:32,898 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306372898
+2018-05-14 16:59:33,805 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 16:59:34,268 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 16:59:34,269 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306372898
+2018-05-14 16:59:40,108 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 16:59:40,113 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306380113
+2018-05-14 16:59:40,117 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 16:59:40,213 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 16:59:40,213 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306380113
+2018-05-14 17:01:09,255 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:01:09,256 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:01:09,256 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:01:12,871 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:01:13,082 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306473082
+2018-05-14 17:01:14,029 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 17:01:14,216 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 17:01:14,217 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306473082
+2018-05-14 17:05:40,796 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:05:40,797 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:05:40,797 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:09:39,859 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:09:40,016 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306980016
+2018-05-14 17:09:40,849 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 17:09:41,004 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 17:09:41,005 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306980016
+2018-05-14 17:09:55,312 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:09:55,317 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526306995317
+2018-05-14 17:09:55,321 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 17:09:55,409 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 17:09:55,413 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaId to be get: 1526306995317
+2018-05-14 17:10:11,079 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:10:11,080 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:10:11,080 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:10:14,511 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:10:14,668 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307014668
+2018-05-14 17:11:16,046 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:11:16,047 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:11:16,047 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:11:19,090 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:11:19,274 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307079274
+2018-05-14 17:12:51,448 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:12:51,449 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:12:51,449 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:13:16,234 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:13:16,385 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307196385
+2018-05-14 17:13:21,453 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:13:21,459 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307201459
+2018-05-14 17:13:24,187 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:13:24,191 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307204191
+2018-05-14 17:14:57,634 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:14:57,635 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:14:57,635 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:15:01,702 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:15:01,912 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307301912
+2018-05-14 17:17:00,646 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:17:00,648 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307420648
+2018-05-14 17:19:48,745 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:19:48,745 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:19:48,746 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:19:54,149 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:19:54,287 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307594287
+2018-05-14 17:19:55,263 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 17:22:06,850 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 17:22:06,851 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 17:22:06,851 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 17:22:15,132 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 17:22:15,286 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526307735286
+2018-05-14 17:22:16,176 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 17:22:16,187 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 17:22:16,190 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 17:22:16,345 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 19:33:35,052 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:33:35,052 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:33:35,053 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:34:09,917 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:34:09,992 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526315649991
+2018-05-14 19:34:10,331 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:34:10,339 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 19:34:10,341 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 19:34:10,368 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 19:34:10,400 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 19:35:15,979 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:35:15,980 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:35:15,980 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:35:19,670 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:35:19,874 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526315719874
+2018-05-14 19:35:20,800 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:36:51,218 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:36:51,219 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:36:51,219 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:37:01,827 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:37:01,900 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526315821899
+2018-05-14 19:37:02,215 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:37:02,224 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 19:37:02,225 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 19:37:02,248 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 19:37:02,274 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 19:37:56,120 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 19:40:58,538 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:40:58,539 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:40:58,539 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:41:12,018 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:41:12,093 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316072093
+2018-05-14 19:41:12,418 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:41:12,426 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 19:41:12,427 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 19:41:12,449 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 19:41:12,484 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 19:41:38,031 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 19:41:38,034 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Asdf,lastName=Asdf,email=asdf@rich.com,password=asdf,mailing=true]
+2018-05-14 19:41:38,034 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-14 19:43:01,600 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:43:01,601 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:43:01,601 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:43:53,102 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:43:53,178 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316233178
+2018-05-14 19:43:53,502 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:48:52,323 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:48:52,323 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:48:52,323 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:49:06,046 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:49:06,123 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316546123
+2018-05-14 19:49:06,486 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:53:18,570 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:53:18,571 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:53:18,571 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:53:24,175 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:53:24,308 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316804308
+2018-05-14 19:53:25,219 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:53:47,996 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:53:48,000 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316828000
+2018-05-14 19:53:48,003 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:55:34,589 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:55:34,595 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316934595
+2018-05-14 19:55:34,601 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:55:52,743 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:55:52,744 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526316952744
+2018-05-14 19:55:52,746 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 19:59:05,792 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 19:59:05,793 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 19:59:05,793 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 19:59:19,613 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 19:59:19,688 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317159688
+2018-05-14 19:59:20,026 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:03:20,271 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 20:03:20,272 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 20:03:20,272 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 20:03:25,355 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:03:25,536 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317405535
+2018-05-14 20:03:26,501 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:03:26,515 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:03:26,518 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:03:26,639 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:03:26,692 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 20:03:50,337 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 20:03:50,340 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Asdf,lastName=Asdf,email=asdf@rich.com,password=asdf,mailing=true]
+2018-05-14 20:03:50,340 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-14 20:04:45,660 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 20:04:45,661 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 20:04:45,661 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 20:05:15,146 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:05:15,224 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317515224
+2018-05-14 20:05:15,604 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:05:15,616 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:05:15,617 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:05:15,645 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:05:15,673 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 20:05:37,281 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-14 20:05:37,284 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Asdf,lastName=Asdf,email=asdf@rich.com,password=asdf,mailing=true]
+2018-05-14 20:05:37,284 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-14 20:06:02,400 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-14 20:06:02,401 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-14 20:06:02,401 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-14 20:06:23,425 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:06:23,498 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317583498
+2018-05-14 20:06:23,817 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:06:23,827 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:06:23,833 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:06:23,854 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:06:23,896 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 20:06:34,079 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:06:34,085 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317594085
+2018-05-14 20:06:34,090 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:06:34,092 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:06:34,094 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:06:34,193 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:06:34,201 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 20:07:14,918 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:07:14,921 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317634921
+2018-05-14 20:07:14,926 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:07:14,928 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:07:14,929 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:07:15,017 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:07:15,025 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 20:07:24,950 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:07:24,951 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317644951
+2018-05-14 20:07:24,953 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:07:24,954 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:07:24,955 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:07:24,970 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:07:24,983 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-14 20:07:49,015 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-14 20:07:49,017 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526317669017
+2018-05-14 20:07:49,143 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-14 20:07:49,145 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-14 20:07:49,150 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-14 20:07:49,238 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-14 20:07:49,247 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends

@@ -1,0 +1,567 @@
+2018-06-04 11:32:44,821 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-04 11:32:46,103 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:32:46,110 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:32:48,512 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:32:48,514 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:32:48,514 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:32:48,514 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:32:48,515 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:32:48,515 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:32:49,287 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:32:49,326 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 11:32:49,656 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:32:49,656 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:32:49,726 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:09,603 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:09,604 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:09,604 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:09,604 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:09,612 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:09,616 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 0;
+2018-06-04 11:33:09,624 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:09,624 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:09,629 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:14,511 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:14,511 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:14,511 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:14,511 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:14,520 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:14,526 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 3;
+2018-06-04 11:33:14,529 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:14,529 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:14,532 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:17,455 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:17,456 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:17,456 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:17,456 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:17,463 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:17,466 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 6;
+2018-06-04 11:33:17,469 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:17,469 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:17,473 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:20,064 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:20,064 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:20,064 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:20,064 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:20,071 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:20,074 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 3;
+2018-06-04 11:33:20,078 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:20,079 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:20,080 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:22,393 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:22,394 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:22,394 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:22,394 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:22,399 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:22,401 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 0;
+2018-06-04 11:33:22,404 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:22,404 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:22,407 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:38,576 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:38,576 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:38,576 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:38,576 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:38,583 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:38,586 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 6;
+2018-06-04 11:33:38,589 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:38,590 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:38,592 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:41,320 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:41,320 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:41,320 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:41,320 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:41,326 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:41,329 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 3;
+2018-06-04 11:33:41,331 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:41,332 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:41,336 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:33:44,954 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:33:44,954 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:33:44,954 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:33:44,954 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:33:44,959 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:33:44,962 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 0;
+2018-06-04 11:33:44,969 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:33:44,970 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:33:44,972 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:36:15,357 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:36:15,357 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:36:15,358 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:36:15,358 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:36:15,367 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:36:15,371 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 0;
+2018-06-04 11:36:15,378 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:36:15,379 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:36:15,383 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:36:21,345 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:36:21,345 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:36:21,345 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:36:21,345 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:36:21,352 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 11:36:21,354 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 3 offset 3;
+2018-06-04 11:36:21,358 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:36:21,359 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:36:21,361 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:36:48,982 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:36:48,982 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:36:48,982 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:36:48,982 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:36:48,988 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 11:36:48,991 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:36:48,996 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:36:48,997 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:36:49,000 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:36:52,513 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:36:52,513 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:36:52,513 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:36:52,513 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:36:52,520 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 11:36:52,522 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 3;
+2018-06-04 11:36:52,525 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:36:52,525 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:36:52,527 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:36:54,728 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:36:54,728 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:36:54,728 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:36:54,728 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:36:54,736 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 11:36:54,739 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 6;
+2018-06-04 11:36:54,743 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:36:54,744 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:36:54,745 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:39:17,866 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:39:17,866 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:39:17,866 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:39:17,866 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:39:17,873 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 11:39:17,875 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 3;
+2018-06-04 11:39:17,881 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:39:17,882 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:39:17,884 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:39:23,747 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:39:23,747 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:39:23,747 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:39:23,747 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:39:23,748 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:39:23,787 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (2) ORDER BY price asc 
+2018-06-04 11:39:23,798 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (2) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:39:23,802 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:39:23,803 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:39:23,804 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:39:30,834 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:39:30,834 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:39:30,834 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:39:30,835 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:39:30,835 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:39:30,840 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 11:39:30,842 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:39:30,845 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:39:30,846 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:39:30,847 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:40:27,516 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:40:27,516 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:40:27,516 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:40:27,516 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:40:27,516 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:40:27,522 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1) ORDER BY price asc 
+2018-06-04 11:40:27,524 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:40:27,529 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:40:27,530 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:40:27,532 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:43:03,987 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:43:03,987 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:43:03,987 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:43:03,987 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:43:03,988 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:43:03,997 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1) ORDER BY price asc 
+2018-06-04 11:43:04,001 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:43:04,223 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:43:04,224 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:43:04,232 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:43:09,547 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:43:09,547 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:43:09,548 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:43:09,548 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:43:09,548 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:43:09,552 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,3,5) ORDER BY price asc 
+2018-06-04 11:43:09,554 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,3,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:43:09,559 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:43:09,560 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:43:09,562 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:43:27,096 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:43:27,097 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:43:27,097 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:43:27,097 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:43:27,097 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:43:27,102 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,3,5) ORDER BY price asc 
+2018-06-04 11:43:27,104 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,3,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:43:27,108 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:43:27,108 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:43:27,110 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:44:05,533 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-06-04 11:44:19,446 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:44:19,449 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:44:19,449 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:44:19,449 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:44:19,449 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:44:19,966 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,3,5) ORDER BY price asc 
+2018-06-04 11:44:19,970 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,3,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:44:21,225 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:44:21,237 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:44:21,294 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:44:34,130 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:44:34,130 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:44:34,130 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:44:34,131 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:44:34,131 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:44:34,138 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:44:34,141 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:44:34,148 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:44:34,149 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:44:34,154 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:54:05,969 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:54:05,970 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:54:05,970 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:54:05,970 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:54:05,970 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:54:05,986 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:54:05,988 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:54:06,191 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:54:06,201 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:54:06,259 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:57:06,182 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:57:06,182 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:57:06,183 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:57:06,183 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:57:06,183 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:57:06,188 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:57:06,191 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:57:06,356 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:57:06,450 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:57:06,460 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:57:29,206 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:57:29,207 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:57:29,207 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:57:29,208 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:57:29,208 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:57:29,219 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:57:29,223 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:57:29,232 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:57:29,234 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:57:29,237 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:57:47,837 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:57:47,838 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:57:47,838 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:57:47,838 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:57:47,838 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:57:47,848 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:57:47,853 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:57:48,043 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:57:48,044 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:57:48,054 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:58:15,495 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:58:15,495 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:58:15,496 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:58:15,496 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:58:15,496 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:58:15,506 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:58:15,511 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:58:15,694 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:58:15,695 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:58:15,754 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 11:58:42,782 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 11:58:42,782 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 11:58:42,782 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 11:58:42,782 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 11:58:42,783 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 11:58:42,792 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc 
+2018-06-04 11:58:42,796 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3,4,5) ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 11:58:42,948 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 11:58:42,949 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 11:58:42,957 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:04:26,261 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:04:26,262 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:04:26,262 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:04:26,262 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 12:04:26,262 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:04:26,262 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 12:04:26,268 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:04:26,270 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 12:04:26,276 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:04:26,277 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:04:26,279 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:04:43,829 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:04:43,829 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:04:43,829 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:04:43,829 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 12:04:43,829 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:04:43,829 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 12:04:43,835 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:04:43,838 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 12:04:43,842 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:04:43,843 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:04:43,845 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:04:48,567 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:04:48,567 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:04:48,567 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:04:48,567 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 12:04:48,568 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:04:48,574 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:04:48,577 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:04:48,580 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:04:48,581 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:04:48,582 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:05:05,446 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:05:05,446 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:05:05,446 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:05:05,446 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 12:05:05,446 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:05:05,452 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:05:05,454 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:05:05,460 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:05:05,461 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:05:05,463 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:05:22,060 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:05:22,061 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:05:22,061 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:05:22,061 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 12:05:22,061 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:05:22,066 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:05:22,069 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:05:22,073 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:05:22,074 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:05:22,079 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:08:48,175 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:08:48,181 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:15:09,542 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:15:09,542 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:15:09,542 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:15:09,542 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:15:09,542 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:15:09,542 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 12:15:09,549 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 12:15:09,551 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 12:15:09,558 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:15:09,559 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:15:09,561 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:16:03,177 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:16:03,177 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:16:03,177 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:16:03,177 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:16:03,178 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:16:03,183 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:16:03,185 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:16:03,191 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:16:03,192 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:16:03,194 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:16:16,574 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:16:16,575 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:16:16,575 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:16:16,575 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:16:16,581 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:16:16,584 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 12:16:16,588 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:16:16,589 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:16:16,590 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:16:22,766 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:16:22,766 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:16:22,766 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:16:22,766 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:16:22,770 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price desc 
+2018-06-04 12:16:22,773 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price desc LIMIT 3 offset 0;
+2018-06-04 12:16:22,777 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:16:22,778 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:16:22,779 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:16:37,215 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:16:37,216 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:16:37,216 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:16:37,216 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:16:37,221 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price desc 
+2018-06-04 12:16:37,224 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price desc LIMIT 3 offset 6;
+2018-06-04 12:16:37,230 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:16:37,231 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:16:37,232 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:17:20,499 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:17:20,500 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:17:20,500 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:17:20,500 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:17:20,505 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:17:20,507 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 3 offset 6;
+2018-06-04 12:17:20,513 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:17:20,514 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:17:20,516 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:17:30,694 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:17:30,694 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:17:30,694 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:17:30,694 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:17:30,700 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:17:30,703 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:17:30,706 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:17:30,707 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:17:30,709 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:17:37,115 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:17:37,116 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:17:37,116 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:17:37,116 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:17:37,120 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:17:37,123 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:17:37,124 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:17:37,125 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:18:00,901 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:18:00,901 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:18:00,901 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:18:00,901 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:18:00,906 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:18:00,908 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 50 offset 0;
+2018-06-04 12:18:00,913 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:18:00,914 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:18:00,916 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:18:25,154 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:18:25,155 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:18:25,155 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:18:25,155 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:18:25,160 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:18:25,162 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:18:25,165 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:18:25,166 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:18:25,168 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:18:33,489 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:18:33,489 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:18:33,489 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:18:33,489 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:18:33,494 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:18:33,496 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:18:33,501 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:18:33,501 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:18:33,503 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:19:23,443 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:19:23,443 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:19:23,443 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:19:23,443 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:19:23,448 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:19:23,450 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:19:23,455 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:19:23,456 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:19:23,461 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:19:34,139 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:19:34,140 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:19:34,140 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:19:34,140 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:19:34,144 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:19:34,146 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 12:19:34,149 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:19:34,152 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:19:34,155 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:20:17,048 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:20:17,048 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:20:17,048 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:20:17,048 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:20:17,053 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc 
+2018-06-04 12:20:17,057 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:20:17,058 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:20:17,059 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:25:05,569 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:25:05,569 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:25:05,570 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:25:05,570 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:25:05,570 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:25:05,570 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 12:25:05,575 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc 
+2018-06-04 12:25:05,577 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 12:25:05,583 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:25:05,584 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:25:05,586 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 12:25:09,067 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet starts
+2018-06-04 12:25:09,067 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 12:25:09,067 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:25:09,067 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 12:25:09,067 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 12:25:09,072 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT COUNT(transports.id) FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model desc 
+2018-06-04 12:25:09,074 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model desc LIMIT 10 offset 0;
+2018-06-04 12:25:09,076 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-06-04 12:25:09,077 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag finished
+2018-06-04 12:25:09,079 [DEBUG][uliha.shop.servlet.FilterServlet] - FilterServlet ends
+2018-06-04 15:49:36,798 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:36,799 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:36,799 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:36,799 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:36,799 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:36,915 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:36,921 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:36,921 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:36,921 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:36,921 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:36,921 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:36,922 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:36,922 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:36,922 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:36,922 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:36,923 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:36,923 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:36,923 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,085 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,086 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:37,086 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,086 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,086 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND model like ? ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,086 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,086 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,087 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,087 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,087 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY model asc LIMIT 3 offset 0;
+2018-06-04 15:49:37,091 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,092 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY price asc LIMIT 3 offset 0;
+2018-06-04 15:49:37,094 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,095 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY price desc LIMIT 3 offset 0;
+2018-06-04 15:49:37,107 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY price desc LIMIT 3 offset 3;
+2018-06-04 15:49:37,113 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>1000 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY price asc LIMIT 3 offset 3;
+2018-06-04 15:49:37,114 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,114 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND price<35001 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY price asc LIMIT 3 offset 3;
+2018-06-04 15:49:37,144 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,145 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,151 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND categories_id IN (1,2,3) AND manufacturers_id=2 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,161 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,161 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,161 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 15:49:37,161 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 AND manufacturers_id=2 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,162 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,162 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,162 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 15:49:37,162 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:37,162 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,168 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,168 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,169 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 15:49:37,169 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:37,169 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,171 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY price asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,175 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,175 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,175 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 15:49:37,175 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:37,175 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,175 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,180 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,180 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,181 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 15:49:37,181 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:37,181 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,181 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,181 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:37,186 [ERROR][uliha.shop.builder.FilterBuilder] - Min price is invalid
+2018-06-04 15:49:37,186 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,187 [ERROR][uliha.shop.builder.FilterBuilder] - Categories are invalid
+2018-06-04 15:49:37,188 [ERROR][uliha.shop.builder.FilterBuilder] - Manufacturer is invalid
+2018-06-04 15:49:37,188 [ERROR][uliha.shop.builder.FilterBuilder] - Max price is invalid
+2018-06-04 15:49:37,188 [ERROR][uliha.shop.builder.FilterBuilder] - Page is invalid
+2018-06-04 15:49:37,188 [DEBUG][m.kuliha.shop.builder.SQLBuilder] - SELECT transports.*, categories.*, manufacturers.* FROM transports INNER JOIN categories ON transports.categories_id = categories.id INNER JOIN manufacturers ON transports.manufacturers_id = manufacturers.id WHERE price>0 ORDER BY model asc LIMIT 10 offset 0;
+2018-06-04 15:49:38,062 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-06-04 15:49:38,084 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-06-04 15:49:38,117 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-04 15:49:38,119 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-06-04 15:49:38,120 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-04 15:49:38,131 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-06-04 15:49:38,132 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-06-04 15:49:38,132 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-06-04 15:49:38,140 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-06-04 15:49:38,144 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends

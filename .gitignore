@@ -1,0 +1,8 @@
+
+# ignore build directory
+build/
+# ignore .abc files
+*.abc
+.idea/
+*.iml
+*.class

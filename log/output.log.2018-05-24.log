@@ -1,0 +1,65 @@
+2018-05-24 11:52:00,976 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 11:52:00,986 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 11:52:01,076 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-24 11:52:01,077 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-24 11:52:01,078 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-24 11:52:01,095 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-24 11:52:01,095 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-24 11:52:01,096 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-24 11:52:01,103 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 11:52:01,104 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 11:55:21,923 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 11:55:21,926 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 11:56:17,473 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:05:17,927 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:05:17,930 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 12:06:11,384 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:06:11,387 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 12:06:16,078 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 12:06:40,371 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:06:40,374 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 12:10:01,195 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:10:09,908 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:10:09,919 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 12:10:19,456 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:16:26,266 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 12:16:26,288 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 13:19:23,183 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 13:19:23,197 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 13:19:23,209 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-24 13:19:23,211 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-24 13:19:23,211 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-24 13:19:23,218 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-24 13:19:23,219 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-24 13:19:23,219 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-24 13:19:23,223 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 13:19:23,224 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 13:19:29,724 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 13:19:29,743 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 13:19:29,761 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-24 13:19:29,763 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-24 13:19:29,763 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-24 13:19:29,768 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-24 13:19:29,770 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-24 13:19:29,770 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-24 13:19:29,786 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-24 13:19:29,787 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-24 13:58:16,439 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-24 13:58:20,942 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 13:58:20,948 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 13:58:33,828 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-24 13:58:34,652 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-24 13:58:34,657 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 13:58:34,666 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 13:58:34,685 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-24 13:58:34,702 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-24 13:58:44,751 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-24 13:58:44,752 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-24 13:58:44,756 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 13:58:44,757 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 14:03:01,735 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-24 14:03:40,435 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 14:03:40,440 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 14:06:07,972 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-24 14:06:19,208 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-24 14:06:19,214 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts

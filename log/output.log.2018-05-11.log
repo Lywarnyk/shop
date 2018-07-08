@@ -1,0 +1,4 @@
+2018-05-11 14:58:11,363 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-11 14:58:11,364 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-11 14:58:11,364 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-11 14:58:45,820 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Danil,lastName=Kuliga,email=lywarnyk@rich.com,password=asdf,mailing=false]

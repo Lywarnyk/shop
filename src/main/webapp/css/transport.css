@@ -1,0 +1,22 @@
+img.transport-img {
+width: 100%;
+}
+
+ul.transport-description {
+margin: 0;
+margin-bottom: 50px;
+list-style-type: none;
+}
+img.error-img{
+	margin-left: 45%;
+	height: 160px;
+	width: 200px;
+  margin-bottom: 20px;
+}
+.error-message{
+  color: red;
+  margin-top: 20px;
+  text-align: center;
+  font-family: none;
+  list-style-type: none;
+}

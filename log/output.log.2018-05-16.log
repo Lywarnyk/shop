@@ -1,0 +1,302 @@
+2018-05-16 10:33:54,383 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 10:33:54,391 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 10:33:54,391 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 10:47:00,885 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:47:01,297 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526456821296
+2018-05-16 10:47:01,657 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:47:01,671 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:47:01,673 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:47:01,706 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:47:01,816 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:53:00,830 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 10:53:00,831 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 10:53:00,831 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 10:57:16,343 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 10:57:16,344 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 10:57:16,344 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 10:57:22,058 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:57:22,215 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457442215
+2018-05-16 10:57:22,992 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:57:23,009 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:57:23,012 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:57:23,327 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:57:23,359 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:57:34,999 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-16 10:57:35,002 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-16 10:57:35,005 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:57:35,008 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457455008
+2018-05-16 10:57:35,016 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:57:35,017 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:57:35,017 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:57:35,037 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:57:35,054 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:58:16,991 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-16 10:58:16,992 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-16 10:58:16,994 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:58:16,996 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457496996
+2018-05-16 10:58:16,998 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:58:16,999 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:58:17,000 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:58:17,029 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:58:17,038 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:58:44,864 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-16 10:58:44,865 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-16 10:58:44,867 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:58:44,868 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457524868
+2018-05-16 10:58:44,871 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:58:44,872 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:58:44,873 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:58:44,891 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:58:44,907 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:59:09,431 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-16 10:59:09,431 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-16 10:59:09,434 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:59:09,435 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457549435
+2018-05-16 10:59:09,437 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:59:09,438 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:59:09,439 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:59:09,461 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:59:09,487 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:59:26,247 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method starts
+2018-05-16 10:59:26,248 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Asdf,lastName=Asdf,email=asdf@rich.com,password=asdf,mailing=false]
+2018-05-16 10:59:26,287 [DEBUG][a.task11.servlet.RegisterServlet] - doPost method ends
+2018-05-16 10:59:40,751 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:59:40,758 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457580758
+2018-05-16 10:59:40,763 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:59:40,765 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:59:40,766 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:59:40,790 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:59:40,800 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 10:59:47,647 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method starts
+2018-05-16 10:59:47,649 [DEBUG][a.task11.servlet.RegisterServlet] - CaptchaId to be set: 1526457587649
+2018-05-16 10:59:47,654 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag starts
+2018-05-16 10:59:47,656 [DEBUG][pam.kuliha.task11.jsp.CaptchaTag] - Custom tag ends
+2018-05-16 10:59:47,657 [DEBUG][a.task11.servlet.RegisterServlet] - doGet method ends
+2018-05-16 10:59:47,834 [DEBUG][ha.task11.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 10:59:47,838 [DEBUG][ha.task11.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 14:10:20,861 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 14:10:20,862 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 14:10:20,862 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 14:10:35,894 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:10:35,925 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 14:10:35,953 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:10:35,954 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 14:10:35,957 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:10:35,967 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 14:10:35,967 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 14:10:35,967 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 14:10:35,971 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 14:10:35,972 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 14:10:35,972 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 14:10:35,983 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:10:35,984 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 14:29:10,274 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:29:10,286 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 14:29:10,330 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:29:10,332 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 14:29:10,336 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:29:10,364 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 14:29:10,365 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 14:29:10,378 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 14:29:10,379 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 14:29:10,389 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 14:29:10,390 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:07:47,709 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:07:47,739 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:07:47,759 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:07:47,760 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:07:47,771 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:07:47,772 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:07:47,790 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:07:47,791 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:07:47,798 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:07:47,799 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:07:47,806 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:07:47,807 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:14:16,987 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:14:16,991 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:14:16,999 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:14:17,000 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:14:17,005 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:14:17,006 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:14:17,014 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:14:17,014 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:14:17,022 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:14:17,023 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:14:17,026 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:14:17,027 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:15:30,048 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:15:30,051 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:15:30,051 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 15:17:10,759 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:17:10,762 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:17:10,770 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:17:10,771 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:17:10,774 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:17:10,777 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:17:10,780 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:17:10,781 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:17:10,781 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 15:17:10,784 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:17:10,784 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:17:10,784 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 15:17:10,787 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:17:10,788 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:53:45,055 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:53:45,059 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:53:45,090 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:53:45,091 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:53:45,095 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:53:45,097 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 15:53:45,101 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:53:45,102 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:53:45,103 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 15:53:45,106 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 15:53:45,106 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 15:53:45,107 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 15:53:45,110 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 15:53:45,111 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:19:15,897 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:19:15,916 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:19:15,925 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:19:15,935 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:19:15,940 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:19:15,950 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 16:19:15,951 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 16:19:15,951 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 16:19:15,954 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 16:19:15,964 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 16:19:15,964 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 16:19:15,967 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:19:15,969 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:20:31,110 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:20:31,124 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:20:31,142 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:20:31,147 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:20:31,150 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:20:31,151 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:20:31,155 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 16:20:31,156 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 16:20:31,156 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 16:20:31,160 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 16:20:31,161 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 16:20:31,161 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 16:20:31,165 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:20:31,166 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:31:22,524 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:31:22,536 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:31:22,544 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:31:22,549 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:31:22,557 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:31:22,559 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:31:22,565 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 16:31:22,565 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 16:31:22,566 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 16:31:22,571 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 16:31:22,572 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 16:31:22,572 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 16:31:22,578 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:31:22,579 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 16:33:30,919 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 16:33:30,951 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:46:46,676 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:46:46,688 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:47:19,059 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:47:19,071 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:48:33,593 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:48:33,607 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:48:59,338 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:48:59,350 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:49:04,520 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:49:04,533 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:49:21,991 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:49:21,993 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:49:22,000 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:49:22,001 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:49:22,007 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:49:22,008 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 17:49:22,008 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:49:22,013 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:49:22,013 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 17:49:22,014 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:49:22,017 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:49:22,018 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:50:56,978 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:50:56,990 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:50:56,999 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:50:57,000 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 17:50:57,001 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:50:57,010 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:50:57,011 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 100
+2018-05-16 17:50:57,011 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:50:57,013 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:50:57,014 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:52:30,968 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 17:52:30,969 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 17:52:30,969 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 17:56:21,351 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 17:56:21,352 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 17:56:21,353 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 17:56:44,806 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:56:44,884 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526482604883
+2018-05-16 17:56:45,263 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 17:56:45,280 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 17:56:45,282 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:56:45,307 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 17:56:45,339 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 17:56:58,299 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:56:58,304 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:56:58,307 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:56:58,309 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526482618309
+2018-05-16 17:56:58,316 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 17:56:58,318 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 17:56:58,319 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:56:58,342 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 17:56:58,361 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 17:57:29,715 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:57:29,716 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:57:29,719 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:57:29,720 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526482649720
+2018-05-16 17:57:29,723 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 17:57:29,724 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 17:57:29,725 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:57:29,747 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 17:57:29,760 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 17:57:43,925 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:57:43,925 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:57:43,928 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:57:43,930 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526482663929
+2018-05-16 17:57:43,932 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 17:57:43,934 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 17:57:43,935 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:57:43,955 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 17:57:43,978 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 17:58:01,363 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:58:01,363 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Asdf,lastName=Asdf,email=asdf@rich.com,password=asdf,mailing=false]
+2018-05-16 17:58:01,371 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:58:04,235 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:58:04,236 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526482684236
+2018-05-16 17:58:04,239 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 17:58:04,240 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 17:58:04,240 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:58:04,249 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 17:58:04,259 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 17:58:28,443 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-16 17:58:28,444 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-16 17:58:28,446 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 17:58:28,448 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526482708448
+2018-05-16 17:58:28,451 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 17:58:28,452 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 17:58:28,453 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 17:58:28,466 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 17:58:28,474 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-16 19:56:49,642 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=John,lastName=Doe,email=qwerty@rich.com,password=1234567,mailing=true]
+2018-05-16 19:56:49,643 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Alex,lastName=Cross,email=qwerty1@rich.com,password=0987654,mailing=false]
+2018-05-16 19:56:49,643 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[firstName=Seb,lastName=Vettel,email=f1champ@rich.com,password=forzaferrari,mailing=true]
+2018-05-16 19:57:15,832 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-16 19:57:15,909 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526489835909
+2018-05-16 19:57:16,250 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-16 19:57:16,262 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-16 19:57:16,266 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-16 19:57:16,287 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-16 19:57:16,318 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends

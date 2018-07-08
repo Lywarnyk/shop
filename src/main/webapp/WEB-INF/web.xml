@@ -1,0 +1,60 @@
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         id="WebApp_ID" version="2.5">
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <welcome-file-list>
+    <welcome-file>index</welcome-file>
+  </welcome-file-list>
+
+  <context-param>
+    <param-name>captchaService</param-name>
+    <!--<param-value>session</param-value>-->
+    <!--<param-value>field</param-value>-->
+    <param-value>cookie</param-value>
+  </context-param>
+  <context-param>
+    <param-name>captchaTimeOut</param-name>
+    <param-value>5</param-value>
+  </context-param>
+
+
+  <filter>
+    <filter-name>LocaleFilter</filter-name>
+    <filter-class>com.epam.kuliha.shop.filter.LocaleFilter</filter-class>
+    <init-param>
+      <param-name>default-locale</param-name>
+      <param-value>ru</param-value>
+    </init-param>
+    <init-param>
+      <param-name>locales</param-name>
+      <param-value>ru,en</param-value>
+    </init-param>
+    <init-param>
+      <param-name>provider</param-name>
+      <param-value>cookie</param-value>
+    </init-param>
+    <init-param>
+      <param-name>cookie-timeout</param-name>
+      <param-value>1000000</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>LocaleFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+  <filter>
+    <filter-name>RoleFilter</filter-name>
+    <filter-class>com.epam.kuliha.shop.filter.RoleFilter</filter-class>
+    <init-param>
+      <param-name>security-file</param-name>
+      <param-value>src\main\resources\security.xml</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>RoleFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+</web-app>

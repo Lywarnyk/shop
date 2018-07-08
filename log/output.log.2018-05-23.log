@@ -1,0 +1,189 @@
+2018-05-23 13:54:54,499 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-23 13:55:20,784 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:55:20,789 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:55:36,215 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 13:55:37,077 [ERROR][kuliha.shop.servlet.LoginServlet] - com.epam.kuliha.shop.exception.UserNotFoundException: ddsf@rich.com
+2018-05-23 13:55:37,077 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 13:55:37,151 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:55:37,152 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:55:49,509 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 13:55:49,539 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 13:55:49,543 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:55:49,544 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:10,717 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 13:56:10,722 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 13:56:10,731 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:10,740 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:10,764 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 13:56:10,764 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 13:56:15,229 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 13:56:15,229 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 13:56:15,233 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:15,234 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:18,086 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 13:56:18,252 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527072978252
+2018-05-23 13:56:18,387 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:18,388 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 13:56:18,390 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 13:56:18,391 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 13:56:18,395 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 13:56:18,424 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 13:56:18,504 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 13:58:02,067 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-23 13:58:02,288 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-23 14:05:31,178 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-23 14:05:54,374 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-23 14:05:57,738 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:05:57,746 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:09,998 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 14:06:10,532 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 14:06:10,538 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:10,548 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:10,570 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:06:10,573 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:06:15,281 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 14:06:15,282 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 14:06:15,286 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:15,286 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:16,573 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 14:06:16,655 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527073576655
+2018-05-23 14:06:16,857 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:16,858 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:06:16,864 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 14:06:16,865 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 14:06:16,866 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 14:06:16,885 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 14:06:16,929 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 14:07:23,762 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-23 14:07:23,817 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-23 14:07:23,852 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 14:07:23,855 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527073643855
+2018-05-23 14:07:23,858 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:07:23,858 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:07:23,866 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 14:07:23,867 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 14:07:23,867 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 14:07:23,881 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 14:07:23,889 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 14:07:46,137 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-23 14:07:46,424 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:07:46,425 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:07:46,431 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-23 14:07:46,546 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:07:46,546 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:08:44,653 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:08:44,654 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:08:44,670 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:08:44,670 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:08:45,984 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 14:08:45,985 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527073725985
+2018-05-23 14:08:45,986 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:08:45,987 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:08:45,987 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 14:08:45,988 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 14:08:45,988 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 14:08:46,005 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:08:46,005 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:08:46,007 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 14:08:46,018 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 14:08:55,696 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:08:55,697 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:08:55,712 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:08:55,712 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:14:10,793 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-23 14:14:14,659 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:14:14,665 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:14:30,210 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 14:14:30,835 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 14:14:30,841 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:14:30,850 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:14:30,865 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:14:30,866 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:14:37,293 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 14:14:37,374 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527074077374
+2018-05-23 14:14:37,572 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:14:37,573 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:14:37,579 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 14:14:37,580 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 14:14:37,580 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 14:14:37,596 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:14:37,597 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:14:37,601 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 14:14:37,631 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 14:15:19,264 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-23 14:15:19,329 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-23 14:15:19,356 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 14:15:19,359 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527074119359
+2018-05-23 14:15:19,361 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:15:19,362 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:15:19,366 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 14:15:19,367 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 14:15:19,373 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 14:15:19,389 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:15:19,389 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:15:19,392 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 14:15:19,401 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 14:15:40,936 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method starts
+2018-05-23 14:15:41,142 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:15:41,146 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 14:15:41,147 [DEBUG][iha.shop.servlet.RegisterServlet] - doPost method ends
+2018-05-23 14:15:41,262 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 14:15:41,262 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 15:58:54,646 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-23 15:59:14,888 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 15:59:14,893 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 15:59:19,532 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 15:59:20,071 [ERROR][kuliha.shop.servlet.LoginServlet] - com.epam.kuliha.shop.exception.UserNotFoundException: asd@asdf
+2018-05-23 15:59:20,072 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 15:59:20,144 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 15:59:20,145 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:03:55,874 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:03:55,875 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:07,628 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:04:07,638 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 16:04:07,642 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:07,652 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:07,671 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 16:04:07,712 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 16:04:13,124 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:04:13,124 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 16:04:13,128 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:13,129 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:14,230 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 16:04:14,306 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527080654306
+2018-05-23 16:04:14,439 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:14,440 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:14,442 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 16:04:14,443 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 16:04:14,443 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 16:04:14,461 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 16:04:14,491 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 16:04:27,408 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:04:27,413 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 16:04:27,416 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-23 16:04:27,417 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1527080667417
+2018-05-23 16:04:27,420 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:27,421 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:04:27,421 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-23 16:04:27,421 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-23 16:04:27,422 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-23 16:04:27,441 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 16:04:27,442 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 16:04:27,447 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-23 16:04:27,470 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-23 16:17:43,744 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:22:05,789 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:26:15,293 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:26:15,295 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:26:21,109 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:26:21,115 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 16:26:21,119 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:26:21,120 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:26:21,142 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 16:26:21,142 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-23 16:26:26,039 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-23 16:26:26,039 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-23 16:26:26,042 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:26:26,043 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:28:21,362 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-23 16:28:21,363 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts

@@ -1,0 +1,354 @@
+2018-05-21 10:18:13,568 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=John,lastName=Doe,email=qwerty@rich.com,mailing=true]
+2018-05-21 10:18:13,578 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=Alex,lastName=Cross,email=qwerty1@rich.com,mailing=false]
+2018-05-21 10:18:13,578 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=Seb,lastName=Vettel,email=f1champ@rich.com,mailing=true]
+2018-05-21 10:18:13,593 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 10:19:58,940 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:19:58,947 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:20:05,116 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 10:20:05,117 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-21 10:20:05,132 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:20:05,175 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:20:05,203 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 10:21:21,955 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=John,lastName=Doe,email=qwerty@rich.com,mailing=true]
+2018-05-21 10:21:21,955 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=Alex,lastName=Cross,email=qwerty1@rich.com,mailing=false]
+2018-05-21 10:21:21,956 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=Seb,lastName=Vettel,email=f1champ@rich.com,mailing=true]
+2018-05-21 10:21:21,961 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 10:21:23,727 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:21:23,734 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:21:30,992 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 10:21:30,993 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-21 10:21:30,998 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:21:31,008 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:21:31,032 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 10:21:31,034 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 10:21:38,606 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 10:21:38,606 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-21 10:21:38,610 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:21:38,611 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:22:04,718 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method starts
+2018-05-21 10:22:04,997 [DEBUG][iha.shop.servlet.RegisterServlet] - CaptchaId to be set: 1526887324996
+2018-05-21 10:22:05,144 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:22:05,145 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 10:22:05,152 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag starts
+2018-05-21 10:22:05,153 [DEBUG][.epam.kuliha.shop.tag.CaptchaTag] - Custom tag ends
+2018-05-21 10:22:05,154 [DEBUG][iha.shop.servlet.RegisterServlet] - doGet method ends
+2018-05-21 10:22:05,204 [DEBUG][liha.shop.servlet.CaptchaServlet] - CaptchaServlet#doGet()
+2018-05-21 10:22:05,354 [DEBUG][liha.shop.servlet.CaptchaServlet] - doGet method ends
+2018-05-21 14:35:16,708 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=John,lastName=Doe,email=qwerty@rich.com,mailing=true]
+2018-05-21 14:35:16,731 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=Alex,lastName=Cross,email=qwerty1@rich.com,mailing=false]
+2018-05-21 14:35:16,731 [INFO ][tory.impl.InMemoryUserRepository] - user was added: User[id=0,firstName=Seb,lastName=Vettel,email=f1champ@rich.com,mailing=true]
+2018-05-21 14:35:16,738 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 14:35:31,112 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 14:35:31,119 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 14:35:37,264 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 14:35:37,265 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 14:35:45,427 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 14:35:45,427 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-21 14:35:45,432 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 14:35:45,441 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 14:35:45,459 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 14:35:45,461 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 16:54:52,475 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain data source
+javax.naming.NameNotFoundException: Name [jdbc/transport-shop] is not bound in this Context. Unable to find [jdbc].
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:820)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:168)
+	at org.apache.naming.SelectorContext.lookup(SelectorContext.java:158)
+	at javax.naming.InitialContext.lookup(InitialContext.java:417)
+	at com.epam.kuliha.shop.db.ConnectionPool.<init>(ConnectionPool.java:22)
+	at com.epam.kuliha.shop.db.TransactionManager.<init>(TransactionManager.java:19)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.<init>(DBUserService.java:17)
+	at com.epam.kuliha.shop.listener.ContextListener.contextInitialized(ContextListener.java:23)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-05-21 16:57:53,075 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain data source
+javax.naming.NameNotFoundException: Name [jdbc/transport-shop] is not bound in this Context. Unable to find [jdbc].
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:820)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:168)
+	at org.apache.naming.SelectorContext.lookup(SelectorContext.java:158)
+	at javax.naming.InitialContext.lookup(InitialContext.java:417)
+	at com.epam.kuliha.shop.db.ConnectionPool.<init>(ConnectionPool.java:22)
+	at com.epam.kuliha.shop.db.TransactionManager.<init>(TransactionManager.java:19)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.<init>(DBUserService.java:17)
+	at com.epam.kuliha.shop.listener.ContextListener.contextInitialized(ContextListener.java:23)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-05-21 17:00:31,713 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain data source
+javax.naming.NameNotFoundException: Name [jdbc/transport-shop] is not bound in this Context. Unable to find [jdbc].
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:820)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:168)
+	at org.apache.naming.SelectorContext.lookup(SelectorContext.java:158)
+	at javax.naming.InitialContext.lookup(InitialContext.java:417)
+	at com.epam.kuliha.shop.db.ConnectionPool.<init>(ConnectionPool.java:22)
+	at com.epam.kuliha.shop.db.TransactionManager.<init>(TransactionManager.java:19)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.<init>(DBUserService.java:17)
+	at com.epam.kuliha.shop.listener.ContextListener.contextInitialized(ContextListener.java:23)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-05-21 17:03:27,906 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain data source
+javax.naming.NameNotFoundException: Name [transport-shop] is not bound in this Context. Unable to find [transport-shop].
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:820)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:168)
+	at org.apache.naming.SelectorContext.lookup(SelectorContext.java:158)
+	at javax.naming.InitialContext.lookup(InitialContext.java:417)
+	at com.epam.kuliha.shop.db.ConnectionPool.<init>(ConnectionPool.java:22)
+	at com.epam.kuliha.shop.db.TransactionManager.<init>(TransactionManager.java:19)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.<init>(DBUserService.java:17)
+	at com.epam.kuliha.shop.listener.ContextListener.contextInitialized(ContextListener.java:23)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-05-21 17:09:04,712 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain data source
+javax.naming.NameNotFoundException: Name [transport-shop] is not bound in this Context. Unable to find [transport-shop].
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:820)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:154)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:831)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:168)
+	at org.apache.naming.SelectorContext.lookup(SelectorContext.java:158)
+	at javax.naming.InitialContext.lookup(InitialContext.java:417)
+	at com.epam.kuliha.shop.db.ConnectionPool.<init>(ConnectionPool.java:22)
+	at com.epam.kuliha.shop.db.TransactionManager.<init>(TransactionManager.java:19)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.<init>(DBUserService.java:17)
+	at com.epam.kuliha.shop.listener.ContextListener.contextInitialized(ContextListener.java:23)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-05-21 17:10:04,305 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 17:10:16,762 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 17:10:16,768 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 17:10:32,655 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 17:10:33,332 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain connection from data source
+org.apache.tomcat.dbcp.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at com.epam.kuliha.shop.db.ConnectionPool.getConnection(ConnectionPool.java:32)
+	at com.epam.kuliha.shop.db.TransactionManager.execute(TransactionManager.java:23)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.getUser(DBUserService.java:28)
+	at com.epam.kuliha.shop.servlet.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at org.apache.tomcat.dbcp.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.tomcat.dbcp.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 27 more
+2018-05-21 17:21:22,005 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 17:21:32,339 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 17:21:32,346 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 17:21:41,254 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 17:21:41,765 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain connection from data source
+org.apache.tomcat.dbcp.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at com.epam.kuliha.shop.db.ConnectionPool.getConnection(ConnectionPool.java:32)
+	at com.epam.kuliha.shop.db.TransactionManager.execute(TransactionManager.java:23)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.getUser(DBUserService.java:28)
+	at com.epam.kuliha.shop.servlet.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at org.apache.tomcat.dbcp.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.tomcat.dbcp.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 27 more
+2018-05-21 17:23:36,653 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 17:23:42,267 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 17:23:42,820 [ERROR][am.kuliha.shop.db.ConnectionPool] - Cannot obtain connection from data source
+org.apache.tomcat.dbcp.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at com.epam.kuliha.shop.db.ConnectionPool.getConnection(ConnectionPool.java:32)
+	at com.epam.kuliha.shop.db.TransactionManager.execute(TransactionManager.java:23)
+	at com.epam.kuliha.shop.service.user.impl.DBUserService.getUser(DBUserService.java:28)
+	at com.epam.kuliha.shop.servlet.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2188)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2219)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2014)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:776)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at org.apache.tomcat.dbcp.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.tomcat.dbcp.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+	at org.apache.tomcat.dbcp.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+	... 27 more
+2018-05-21 19:58:37,151 [INFO ][aptcha.impl.CookieCaptchaService] - CookieCaptchaService is initialised
+2018-05-21 19:58:56,349 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 19:58:56,356 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 19:59:15,580 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 19:59:16,450 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-21 19:59:16,455 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 19:59:16,465 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 19:59:16,484 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 19:59:16,502 [DEBUG][uliha.shop.servlet.AvatarServlet] - doGet starts
+2018-05-21 20:20:43,280 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet starts
+2018-05-21 20:20:43,281 [DEBUG][kuliha.shop.servlet.LoginServlet] - doGet finishes
+2018-05-21 20:20:43,286 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
+2018-05-21 20:20:43,287 [DEBUG][am.kuliha.shop.tag.UserSignInTag] - doTag starts
